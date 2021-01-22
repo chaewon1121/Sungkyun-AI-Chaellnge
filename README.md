@@ -26,11 +26,12 @@ AI-based metal 3D printing process optimization platform
   
 ![ex_screenshot](./readimg/guide.png)
 
-<h3> 4. Visualization results </h3>
+<h3> 4. Visualization Results </h3>
 <div id="about_Chart">
 > 다음과 같이 input을 입력하고, Output 종류를 입력하면 하단처럼 그래프로 시각화될 수 있게 연동하였다.
 
 ![ex_screenshot](./readimg/chart.png)
 
-
+<h3> 5. How to develop </h3>
+<div id="about_howtodevelop">
 
