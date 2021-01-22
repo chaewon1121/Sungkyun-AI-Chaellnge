@@ -21,5 +21,8 @@ AI-based metal 3D printing process optimization platform
 ![ex_screenshot](./readimg/intro.png)
 
 <h3> 3. Service Features </h3>
-
+<div id="about_Features">
+ 크게 세 가지의 서비스를 제공한다. 첫 째, Database Training 서비스로, 3D 프린팅 공정을 통한 데이터를 ML 알고리즘으로 학습시키는 서비스이다. 둘 째, Predictive Result 서비스로, AI 알고리즘을 통해 학습시킨 변수 별 예측값을 도출해주는 서비스이다. 셋 째, Visualization 서비스로, 직관적인 차트들로 결과값을 도출하고, 인사이트를 제공해주는 서비스이다. 하단의 그림은 각 서비스를 이용할 수 있는 구체적인 가이드라인에 관한 것이다.
+  
 ![ex_screenshot](./readimg/guide.png)
+
