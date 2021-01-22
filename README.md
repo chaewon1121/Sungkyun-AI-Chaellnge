@@ -1,6 +1,8 @@
 # Sungkyun-AI-Chaellnge
 AI-based metal 3D printing process optimization platform
 
+![ex_screenshot](./readmeimg/표지.png)
+
 <h3> 1. Member </h3>
 <div id="about_team">
 
