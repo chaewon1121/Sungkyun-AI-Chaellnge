@@ -35,7 +35,7 @@ AI-based metal 3D printing process optimization platform
 <h3> 5. How to develop </h3>
 <div id="about_howtodevelop">
 
-> 파이썬 플라스크를 이용해 주피터로 데이터를 AI모델 분석한것과 연동시켜서 웹을 만들었다.
+>파이썬 플라스크를 이용해 주피터로 데이터를 AI모델 분석한것과 연동시켜서 웹을 만들었다.
 
 웹을 구상하기에 앞서 우선 파이썬 가상환경 셋팅을 해주어야한다.
 ## Python Virtual environment
