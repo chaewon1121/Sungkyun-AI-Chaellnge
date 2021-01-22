@@ -35,3 +35,34 @@ AI-based metal 3D printing process optimization platform
 <h3> 5. How to develop </h3>
 <div id="about_howtodevelop">
 
+> 파이썬 플라스크를 이용해 주피터로 데이터를 AI모델 분석한것과 연동시켜서 웹을 만들었다.
+
+웹을 구상하기에 앞서 우선 파이썬 가상환경 셋팅을 해주어야한다.
+## Python Virtual environment
+- To make virtual env <br>
+`python -m venv [directory]`
+<br><br>
+- Enter the virtual env <br>
+In Created directory, go to Scripts directory <br>
+`activate`
+<br><br>
+
+- Leaving the virtual env <br>
+`deactivate`
+
+<br>
+
+## Installing the flask
+- To verify that it is a virtual environment <br>
+if you are in virtual env, you can see your directory name like this on your left cmd: (directory)
+<br>
+
+- Installing a flask in a Virtual Environment <br>
+ `pip install Flask`
+ 
+- Installing the latest version of the pip <br>
+ `python -m pip install --upgrade pip`
+ 
+ <br>
+ 세팅이 완료되고 난 뒤 Flask의 app.py에 들어가서 사용하는 모듈인 scikit learn 모듈을 설치하고 pkl파일을 이용해 데이터 값을 연동시킨다.
+
